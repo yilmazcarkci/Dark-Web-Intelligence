@@ -371,21 +371,6 @@ python -m pytest tests/
 - [ ] Global deployment
 - [ ] Advanced security features
 
-## 🤝 Contributors
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/yourusername">
-        <img src="https://avatars.githubusercontent.com/yourusername" width="100px;" alt=""/>
-        <br />
-        <sub><b>Your Name</b></sub>
-      </a>
-      <br />
-      <sub>🚀 Creator & Maintainer</sub>
-    </td>
-  </tr>
-</table>
 
 ## 📄 License
 
