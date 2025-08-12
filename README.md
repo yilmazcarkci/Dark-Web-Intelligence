@@ -391,19 +391,6 @@ python -m pytest tests/
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## 📞 Support
-
-### Contact
-- 📧 Email: your.email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/tor-onion-scanner/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/tor-onion-scanner/discussions)
-
-### Help
-1. Check the [FAQ](docs/FAQ.md) section
-2. Search the [Issues](https://github.com/yourusername/tor-onion-scanner/issues) page
-3. Open a new issue
-4. Ask the community
-
 ## 🙏 Acknowledgments
 
 - [Tor Project](https://www.torproject.org/) - For anonymity
@@ -413,14 +400,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [ReportLab](https://www.reportlab.com/) - PDF generation
 
 ---
-
-<div align="center">
-
-**⭐ If you liked this project, don't forget to give it a star!**
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/tor-onion-scanner?style=social)](https://github.com/yourusername/tor-onion-scanner)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/tor-onion-scanner?style=social)](https://github.com/yourusername/tor-onion-scanner)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/tor-onion-scanner)](https://github.com/yourusername/tor-onion-scanner/issues)
 
 **🔒 Secure, Anonymous, Powerful**
 
