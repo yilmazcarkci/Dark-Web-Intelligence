@@ -1,0 +1,242 @@
+{
+  "scan_date": "2025-07-08T17:53:43.540557",
+  "tor_connection": false,
+  "total_onion_links": 5,
+  "onion_links": [
+    {
+      "url": "http://hiddenwiki.onion",
+      "text": "Hidden Wiki",
+      "found_at": "fake_source"
+    },
+    {
+      "url": "http://marketplace.onion",
+      "text": "Dark Market",
+      "found_at": "fake_source"
+    },
+    {
+      "url": "http://forum.onion",
+      "text": "Discussion Forum",
+      "found_at": "fake_source"
+    },
+    {
+      "url": "http://email.onion",
+      "text": "Secure Email",
+      "found_at": "fake_source"
+    },
+    {
+      "url": "http://chat.onion",
+      "text": "Anonymous Chat",
+      "found_at": "fake_source"
+    }
+  ],
+  "scan_summary": {
+    "successful_connections": 5,
+    "unique_domains": 5,
+    "scan_duration": "~30 seconds"
+  },
+  "dark_web_data": {
+    "email_passwords": [
+      {
+        "email": "admin@company.com",
+        "password": "admin123",
+        "source": "data_breach_2024"
+      },
+      {
+        "email": "user@example.org",
+        "password": "password123",
+        "source": "leaked_database"
+      },
+      {
+        "email": "test@test.com",
+        "password": "qwerty",
+        "source": "phishing_site"
+      },
+      {
+        "email": "admin@bank.com",
+        "password": "secure2024",
+        "source": "banking_breach"
+      },
+      {
+        "email": "support@service.net",
+        "password": "support123",
+        "source": "service_leak"
+      }
+    ],
+    "credit_cards": [
+      {
+        "number": "****-****-****-1234",
+        "expiry": "12/25",
+        "cvv": "***",
+        "bank": "Sample Bank"
+      },
+      {
+        "number": "****-****-****-5678",
+        "expiry": "03/26",
+        "cvv": "***",
+        "bank": "Test Bank"
+      },
+      {
+        "number": "****-****-****-9012",
+        "expiry": "08/24",
+        "cvv": "***",
+        "bank": "Demo Bank"
+      }
+    ],
+    "identity_numbers": [
+      {
+        "type": "SSN",
+        "number": "***-**-1234",
+        "country": "US"
+      },
+      {
+        "type": "TC",
+        "number": "12345678901",
+        "country": "TR"
+      },
+      {
+        "type": "NIN",
+        "number": "123456789",
+        "country": "UK"
+      }
+    ],
+    "phone_numbers": [
+      {
+        "number": "+1-555-123-4567",
+        "country": "US",
+        "type": "mobile"
+      },
+      {
+        "number": "+44-20-7946-0958",
+        "country": "UK",
+        "type": "landline"
+      },
+      {
+        "number": "+90-212-555-0123",
+        "country": "TR",
+        "type": "mobile"
+      }
+    ],
+    "database_dumps": [
+      {
+        "name": "user_database_2024.sql",
+        "size": "2.3GB",
+        "records": "150,000"
+      },
+      {
+        "name": "customer_data_backup.zip",
+        "size": "1.8GB",
+        "records": "89,000"
+      },
+      {
+        "name": "employee_records.csv",
+        "size": "500MB",
+        "records": "25,000"
+      }
+    ],
+    "phishing_sites": [
+      {
+        "url": "http://fake-bank.onion",
+        "target": "Banking",
+        "status": "active"
+      },
+      {
+        "url": "http://login-secure.onion",
+        "target": "Email",
+        "status": "active"
+      },
+      {
+        "url": "http://verify-account.onion",
+        "target": "Social Media",
+        "status": "active"
+      }
+    ],
+    "ransomware_announcements": [
+      {
+        "group": "DarkSide",
+        "victim": "Hospital System",
+        "demand": "$500,000"
+      },
+      {
+        "group": "REvil",
+        "victim": "Manufacturing Co",
+        "demand": "$1,200,000"
+      },
+      {
+        "group": "LockBit",
+        "victim": "University",
+        "demand": "$750,000"
+      }
+    ],
+    "malware_links": [
+      {
+        "url": "http://download-tool.onion",
+        "type": "RAT",
+        "detection": "0/60"
+      },
+      {
+        "url": "http://crypto-miner.onion",
+        "type": "Miner",
+        "detection": "2/60"
+      },
+      {
+        "url": "http://keylogger-pro.onion",
+        "type": "Keylogger",
+        "detection": "1/60"
+      }
+    ],
+    "hacked_sites": [
+      {
+        "domain": "example.com",
+        "breach_date": "2024-01-15",
+        "records": "50,000"
+      },
+      {
+        "domain": "test.org",
+        "breach_date": "2024-02-03",
+        "records": "25,000"
+      },
+      {
+        "domain": "demo.net",
+        "breach_date": "2024-03-10",
+        "records": "75,000"
+      }
+    ],
+    "username_passwords": [
+      {
+        "username": "admin",
+        "password": "admin123",
+        "source": "default_creds"
+      },
+      {
+        "username": "root",
+        "password": "password",
+        "source": "system_default"
+      },
+      {
+        "username": "user",
+        "password": "123456",
+        "source": "weak_password"
+      }
+    ],
+    "personal_data": [
+      {
+        "name": "John Doe",
+        "email": "john@example.com",
+        "phone": "+1-555-1234",
+        "address": "123 Main St"
+      },
+      {
+        "name": "Jane Smith",
+        "email": "jane@test.org",
+        "phone": "+44-20-1234",
+        "address": "456 Oak Ave"
+      },
+      {
+        "name": "Bob Johnson",
+        "email": "bob@demo.net",
+        "phone": "+90-212-1234",
+        "address": "789 Pine Rd"
+      }
+    ]
+  }
+}
